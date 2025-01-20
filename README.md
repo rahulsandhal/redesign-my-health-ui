@@ -1,5 +1,5 @@
 # redesign-my-health-ui
-<h1 align="center"> HOTEL </h1>
+<h1 align="center"> Hekath ui </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
