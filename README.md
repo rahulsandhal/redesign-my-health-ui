@@ -11,7 +11,7 @@
 <img src="https://github.com/user-attachments/assets/63d75e31-b462-40dd-bfda-7bc4b3bcc5f1"/>
 
 
-[Figma file- Link ](https://www.figma.com/design/frAhExCEGvxPOjmPSh5dHU/E-commerce-furniture-website?t=10KHpIVigNtrKVi2-1)
+[Figma file- Link ](https://www.figma.com/design/EzggRyendKP27xUH6DmnbQ/assiment?t=RKO7jvrvb3V1dPKZ-1)
 
 
 
