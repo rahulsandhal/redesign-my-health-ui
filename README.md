@@ -6,8 +6,8 @@
 </p>
 
 
-  HomePage                 |    
-:-------------------------:|:-------------------------:|
+    Homepage  
+
 <img src="https://github.com/user-attachments/assets/63d75e31-b462-40dd-bfda-7bc4b3bcc5f1"/>
 
 
